@@ -66,7 +66,7 @@ u<-fluidPage(
       verbatimTextOutput("summary"),
       
       h4("Observations"),
-      tableOutput("view")
+      tableOutput("view"),
       
       # h4("test changes")
     )
